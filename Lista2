@@ -128,7 +128,7 @@ public String checar(String nome){
 
   Main l1 = new Main();
 
-  l1.contratar("Marta", 19, 11);
+  l1.contratar("João", 19, 11);
   l1.contratar("Maria", 18, 42);
   
   l1.checar("Maria");
